@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 410" role="img" aria-labelledby="title desc">
   <title id="title">Karamia 的身份星图</title>
-  <desc id="desc">Karamia 位于中心，周围连接 INFJ、浅境 AuraScape、SHCM 艺术管理、小型实验和山野漫游。</desc>
+  <desc id="desc">Karamia 位于中心，周围连接 INFJ、浅境 AuraScape、SHCM 艺术管理、小型实验与各种支线兴趣。</desc>
   <rect width="1100" height="410" rx="34" fill="#fbfaf6"/>
   <path d="M139 235 C260 69 475 52 575 203 C671 349 853 359 972 180" fill="none" stroke="#c8d4cf" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 12"/>
   <path d="M197 109 C348 261 435 337 579 208 C711 90 829 80 934 265" fill="none" stroke="#d6dce9" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 12"/>
@@ -27,7 +27,7 @@
     <g transform="translate(319 333)">
       <circle r="12" fill="#a9c2b5"/>
       <text x="24" y="-1" font-size="19" font-weight="700" fill="#29496f">SHCM</text>
-      <text x="24" y="22" font-size="13" fill="#5f746d">arts management</text>
+      <text x="24" y="22" font-size="13" fill="#5f746d">arts management MA</text>
     </g>
     <g transform="translate(810 324)">
       <circle r="12" fill="#b8c9dc"/>
@@ -41,7 +41,8 @@
     </g>
     <g transform="translate(968 319)">
       <path d="M-10 8 C0 -12 15 -25 31 -40 C23 -11 13 7 -10 8Z" fill="#b7c9bd"/>
-      <text x="0" y="49" text-anchor="middle" font-size="17" font-weight="650" fill="#29496f">mountain notes</text>
+      <text x="0" y="49" text-anchor="middle" font-size="17" font-weight="650" fill="#29496f">side quests</text>
+      <text x="0" y="68" text-anchor="middle" font-size="11" fill="#58726d">hiking · dance · oddities</text>
     </g>
   </g>
 </svg>
