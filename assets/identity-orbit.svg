@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1100 410" role="img" aria-labelledby="title desc">
+  <title id="title">Karamia 的身份星图</title>
+  <desc id="desc">Karamia 位于中心，周围连接 INFJ、浅境 AuraScape、SHCM 艺术管理、小型实验和山野漫游。</desc>
+  <rect width="1100" height="410" rx="34" fill="#fbfaf6"/>
+  <path d="M139 235 C260 69 475 52 575 203 C671 349 853 359 972 180" fill="none" stroke="#c8d4cf" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 12"/>
+  <path d="M197 109 C348 261 435 337 579 208 C711 90 829 80 934 265" fill="none" stroke="#d6dce9" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 12"/>
+  <path d="M327 333 C389 236 433 182 552 202 C699 226 740 319 842 324" fill="none" stroke="#eed7c5" stroke-width="2.5" stroke-linecap="round" stroke-dasharray="3 12"/>
+
+  <g transform="translate(550 205)">
+    <path d="M-91 -18 C-68 -82 23 -94 82 -46 C130 -7 103 68 39 84 C-20 100 -105 58 -91 -18Z" fill="#f4efe7" stroke="#29496f" stroke-width="3"/>
+    <circle cx="-26" cy="-5" r="5" fill="#29496f"/>
+    <path d="M18 -11 l5 10 11 2-9 7 2 11-9-6-9 6 2-11-9-7 11-2Z" fill="#29496f"/>
+    <text x="0" y="50" text-anchor="middle" font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif" font-size="23" font-weight="650" fill="#29496f">Karamia</text>
+  </g>
+
+  <g font-family="-apple-system,BlinkMacSystemFont,'Segoe UI','PingFang SC',sans-serif">
+    <g transform="translate(149 222)">
+      <circle r="47" fill="#dfe9e3"/>
+      <text y="-3" text-anchor="middle" font-size="20" font-weight="700" fill="#29496f">INFJ</text>
+      <text y="22" text-anchor="middle" font-size="13" fill="#5f746d">inner world</text>
+    </g>
+    <g transform="translate(207 100)">
+      <circle r="12" fill="#e9b994"/>
+      <text x="24" y="-1" font-size="19" font-weight="700" fill="#29496f">浅境 AuraScape</text>
+      <text x="24" y="22" font-size="13" fill="#806f65">expressive arts</text>
+    </g>
+    <g transform="translate(319 333)">
+      <circle r="12" fill="#a9c2b5"/>
+      <text x="24" y="-1" font-size="19" font-weight="700" fill="#29496f">SHCM</text>
+      <text x="24" y="22" font-size="13" fill="#5f746d">arts management</text>
+    </g>
+    <g transform="translate(810 324)">
+      <circle r="12" fill="#b8c9dc"/>
+      <text x="-24" y="-1" text-anchor="end" font-size="19" font-weight="700" fill="#29496f">small experiments</text>
+      <text x="-24" y="22" text-anchor="end" font-size="13" fill="#68778a">ideas into shapes</text>
+    </g>
+    <g transform="translate(950 178)">
+      <circle r="12" fill="#e9cdbb"/>
+      <text x="-24" y="-1" text-anchor="end" font-size="19" font-weight="700" fill="#29496f">PaperFlow</text>
+      <text x="-24" y="22" text-anchor="end" font-size="13" fill="#806f65">knowledge trails</text>
+    </g>
+    <g transform="translate(968 319)">
+      <path d="M-10 8 C0 -12 15 -25 31 -40 C23 -11 13 7 -10 8Z" fill="#b7c9bd"/>
+      <text x="0" y="49" text-anchor="middle" font-size="17" font-weight="650" fill="#29496f">mountain notes</text>
+    </g>
+  </g>
+</svg>
