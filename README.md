@@ -36,7 +36,7 @@
 |---|---|
 | **浅境 AuraScape**<br><sub>Expressive arts · connection · inner landscapes</sub> | 以表达性艺术为核心的活动与实践。它关心感受如何被看见，经验如何被表达，以及艺术如何成为人与自己、人与他人之间的一处空间。<br><br>[去小红书看看 →](https://xhslink.com/m/wjGq76dOFR) |
 | **Master’s Student in Arts Management @ SHCM** | 舞台管理与制作，活动策划，宣传与推广... 似乎什么都能干的全能牛马（诶bushi） |
-| **PaperFlow｜文脉**<br><sub>PDF → reading → notes → connected knowledge</sub> | 一套面向 Codex 与 Claude Code 的文献精读工作流。它会保存 PDF 原文，生成独立的译稿、核心解析和精读笔记，再把概念、理论、方法与研究项目连接起来。<br><br>[查看开源项目 →](https://github.com/MuKaramia/PaperFlow) |
+| **PaperFlow｜文脉**<br><sub>PDF → knowledge atlas → argument thread</sub> | 一套面向 Codex 与 Claude Code 的研究工作流。它会保存 PDF 原文，整理译稿、核心解析与个人批注，把跨文献知识连接成地图，也可以从问题或关键词出发，将库内材料梳理成可检查的论证线。<br><br>[查看项目 →](https://github.com/MuKaramia/PaperFlow) · [下载使用 →](https://github.com/MuKaramia/PaperFlow/releases/latest) |
 | **Side quests & curiosities**<br><sub>Hiking · arts & crafts · expressive arts · classical dance · odd little studies</sub> | 我的支线任务包括徒步、工艺美术、艺术疗愈和古典舞。偶尔也会拐进一个奇奇怪怪的小问题里，研究它一阵，然后带着一个新问号出来。 |
 
 <br>
